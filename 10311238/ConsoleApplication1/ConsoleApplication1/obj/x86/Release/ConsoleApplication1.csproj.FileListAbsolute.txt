@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\10311221bigdata homework\lab-2-zi-chuan-chu-li-eftgy2458\10311238\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\acer\Desktop\10311221bigdata homework\lab-2-zi-chuan-chu-li-eftgy2458\10311238\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\acer\Desktop\10311221bigdata homework\lab-2-zi-chuan-chu-li-eftgy2458\10311238\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\acer\Desktop\10311221bigdata homework\lab-2-zi-chuan-chu-li-eftgy2458\10311238\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Users\acer\Desktop\lab-2-zi-chuan-chu-li-eftgy2458\10311238\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\acer\Desktop\lab-2-zi-chuan-chu-li-eftgy2458\10311238\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Users\ND602374\Desktop\lab-2-zi-chuan-chu-li-nttu10311238\10311238\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\ND602374\Desktop\lab-2-zi-chuan-chu-li-nttu10311238\10311238\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Users\ND602374\Desktop\lab-2-zi-chuan-chu-li-nttu10311238\10311238\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\ND602374\Desktop\lab-2-zi-chuan-chu-li-nttu10311238\10311238\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\ND602374\Desktop\lab-2-zi-chuan-chu-li-nttu10311238\10311238\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
